@@ -36,3 +36,8 @@ To get started with these projects, follow these simple steps:
 5. **Optionally, You can visit the links above:** If you are only interested in the result, links are provided for the respective projects above
 
 
+## Acknowledgement
+
+Temperature Convertor from BroCode Javascript Series [Link](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
+
+
