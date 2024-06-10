@@ -12,7 +12,7 @@ Feel free to clone, fork, and share these projects with your friends or use them
 
 | S.No | Name               | Link                                |
 |------|--------------------|-------------------------------------|
-| 1    | Project Name 1     | [Link](https://tencodev.github.io/html-css-js-mini-projects/001-Pokemon-Gallery/)  |
+| 1    | Pokemon Gallery   | [Link](https://tencodev.github.io/html-css-js-mini-projects/001-Pokemon-Gallery/)  |
 
 
 
