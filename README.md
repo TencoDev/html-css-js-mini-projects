@@ -15,6 +15,7 @@ Feel free to clone, fork, and share these projects with your friends or use them
 | 001    | Temperature Convertor   | [Link](https://tencodev.github.io/html-css-js-mini-projects/001-Temperature-Convertor/)  |
 | 002 | Image Slider | [Link](https://tencodev.github.io/html-css-js-mini-projects/002-Image-Slider/) |
 | 003 | Pokemon Gallery | [Link](https://tencodev.github.io/html-css-js-mini-projects/003-Pokemon-Gallery/) |
+| 004 | Counter Closures | [Link](https://tencodev.github.io/html-css-js-mini-projects/004-Counter-Closures/) |
 
 
 
