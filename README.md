@@ -27,7 +27,7 @@ To get started with these projects, follow these simple steps:
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command in your terminal:
 
    ```bash
-   git clone https://github.com/Your-Username/html-css-javascript-projects.git
+   git clone https://github.com/TencoDev/html-css-javascript-projects.git
    ```
    
 3. **Open with VS Code:** Open the cloned repository in Visual Studio Code (VS Code) or your preferred code editor.
