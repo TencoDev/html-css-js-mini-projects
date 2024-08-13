@@ -27,3 +27,4 @@ document.getElementById('decrement').addEventListener('click', () => {
     const value = counter.decrement();
     document.getElementById('value').textContent = value;
 });
+ 
