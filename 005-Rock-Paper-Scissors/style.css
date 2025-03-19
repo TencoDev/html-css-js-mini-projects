@@ -1,0 +1,59 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #e0e0e0; /* Light grey background for neuromorphic effect */
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #e0e0e0;
+    padding: 2em;
+    border-radius: 15px;
+    box-shadow: 8px 8px 15px #bebebe, -8px -8px 15px #ffffff; /* Neuromorphic shadow */
+}
+
+h1, h3, p {
+    margin: 1em;
+    text-align: center;
+    color: #555;
+}
+
+.buttons button {
+    background: #e0e0e0;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 8px #bebebe, -4px -4px 8px #ffffff; /* Button neuromorphic shadow */
+    font-size: 16px;
+    cursor: pointer;
+    color: #555;
+    transition: transform 0.2s;
+}
+
+.buttons button:active {
+    box-shadow: inset 4px 4px 8px #bebebe, inset -4px -4px 8px #ffffff; /* Active state */
+    transform: scale(0.98);
+}
+
+.scoreboard p {
+    margin: 0.5em 0;
+    color: #555;
+}
+
+.container > * {
+    margin: 0.5em 0;
+}
+
+button:hover {
+    transform: scale(1.03);
+}
