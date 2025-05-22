@@ -14,6 +14,7 @@ Feel free to clone, fork, and share these projects with your friends or use them
 | 004 | Counter Closures | [Link](https://tencodev.github.io/html-css-js-mini-projects/004-Counter-Closures/) |
 | 005 | Rock Paper Scissors | [Link](https://tencodev.github.io/rock-paper-scissors/) |
 | 006 | Vintage Calculator | [Link](https://tencodev.github.io/Calculator/) |
+| 007 | Etch a Sketch | [Link](https://tencodev.github.io/Etch-a-Sketch/) |
 
 
 
@@ -37,6 +38,8 @@ To get started with these projects, follow these simple steps:
 <img src="https://github.com/user-attachments/assets/256e9dcf-b19f-41e7-80f5-a9ca5b8cec6c" width="250" height="200" />
 <img src="https://github.com/user-attachments/assets/aa30cdec-acd7-472f-81ea-9f311496e81a" width="200" height="200" />
 <img src="https://github.com/user-attachments/assets/885331f8-2164-4a94-aa68-dd680a5a4064" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/9a8693ce-b9cb-4a04-b53a-b65359e2d14f" width="350" height="200" />
+
 
 
 
