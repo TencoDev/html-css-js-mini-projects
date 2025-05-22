@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&family=Poppins:wght@400;700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --beige: #FFFDF6;
+    --cream: #FAF6E9;
+    --mint-green: #DDEB9D;
+    --vintage-green: #A0C878;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: var(--cream);
+}
+
+button {
+    font-family: 'Faculty Glyphic', sans-serif;
+    font-size: 2rem;
+    height: 5rem;
+    width: 25%;
+    padding: 1px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: var(--vintage-green);
+
+}
+
+#zero-button {
+    flex-grow: 1;
+}
+
+.container {
+    font-family: 'Faculty Glyphic', sans-serif;
+    width: 80vw;
+    max-width: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 4px solid black;
+    border-radius: 4px;
+    background-color: black;
+}
+
+.display {
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+    background-color: var(--mint-green);
+    width: 100%;
+    min-height: 3rem;
+    font-size: 3rem;
+    text-align: right;
+    padding: 1rem;
+}
