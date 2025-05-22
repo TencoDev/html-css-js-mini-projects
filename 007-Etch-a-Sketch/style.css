@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Silkscreen', cursive; 
+    color: #f4f4f4; 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #101010;
+    overflow: hidden;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 25%; 
+    padding: 20px;
+    background-color: #131313;
+    border-right: 4px solid #f4f4f4;
+}
+
+.sidebar header h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    color: #ffd12b;
+}
+
+.sidebar header p {
+    font-size: 1rem;
+    color: #e9e7fa;
+    margin: 0; 
+    margin-top: 4px; 
+    margin-bottom: 20px;
+    font-style: italic; 
+
+}
+
+.sidebar section {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.sidebar section h2 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #e9e7fa; 
+}
+
+.sidebar button {
+    display: block;
+    width: 100%;
+    padding: 7.5px;
+    margin-bottom: 10px;
+    font-size: 0.8rem;
+    font-family: 'Silkscreen', cursive;
+    border: none;
+    border-radius: 0;
+    background-color: #ffd12b;
+    color: #000;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 4px 4px 0 #000;
+    transition: all 0.2s ease;
+}
+
+.sidebar button:hover {
+    background-color: #ffcc00; 
+    box-shadow: 2px 2px 0 #000;
+    transform: translate(2px, 2px);
+}
+
+
+.canvas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+
+
+.grid-item {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+}
